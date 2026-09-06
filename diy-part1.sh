@@ -9,7 +9,7 @@
 # File name: diy-part1.sh
 # Description: OpenWrt DIY script part 1 (Before Update feeds)
 #
-# Apply the LYT T68M daughterboard DTS patch (SATA2 + SDIO WiFi AIC8800)
+# Apply hardware enablement DTS patch
 
 set -e
 
